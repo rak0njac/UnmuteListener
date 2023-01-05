@@ -19,7 +19,7 @@ I didn't really care for having my computer remember the previouosly set microph
 1. Open UnmuteListener.sln in Visual Studio 2019 or newer. 
 2. Build as x86.
 ## Linux
-Still using Linux on desktop in 2022?
+Still using Linux on desktop in 2023?
 1. Switch to Windows
 2. Read Windows build instructions
 
